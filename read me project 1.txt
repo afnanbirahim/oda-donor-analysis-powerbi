@@ -1,0 +1,29 @@
+# Analysis of Official Development Assistance (ODA) from DAC Donors
+
+## Overview
+This project analyzes trends in Official Development Assistance (ODA) from Development Assistance Committee (DAC) donor countries between 2005 and 2024.
+
+## Objective
+- Analyze donor contributions
+- Examine donor ranking stability
+- Identify concentration of development assistance among major donors
+- Explore long-term aid trends
+
+## Tools
+Power BI  
+Excel  
+DAX
+
+## Key Insights
+- A small number of countries dominate global development assistance.
+- The United States remains the largest DAC donor.
+- Germany and the United Kingdom are consistently among the top contributors.
+- Overall ODA flows increased significantly after 2015.
+
+## Files Included
+Power BI dashboard (.pbix)  
+Dataset (.xlsx)  
+Dashboard screenshots
+
+## Data Source
+DAC donor ODA dataset
